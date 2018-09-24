@@ -1,5 +1,7 @@
 package uF4.trabajos.A1_17_09_2018._01;
 
+
+
 public class Bombillas {
 	
 	private int intensidad;
@@ -24,6 +26,9 @@ public class Bombillas {
 	
 	
 	
+	
+	
+	
 	//DETALLES DE BOMBILLAS
 	public void detallesBombilla() {
 		System.out.printf("\nLa intensidad es: %d", intensidad);
@@ -32,9 +37,7 @@ public class Bombillas {
 	
 	
 	
-	
-	
-	
+
 	
 	
 	
